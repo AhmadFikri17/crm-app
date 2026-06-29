@@ -282,7 +282,7 @@ Built using Tailwind CSS.
 
 ## Landing Page
 
-![Dashboard](assets/images/dashboard.png)
+![Dashboard](assets/images/landing.png)
 
 ## Login
 
