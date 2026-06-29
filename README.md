@@ -152,7 +152,7 @@ CREATE DATABASE crm_db;
 Import the SQL file
 
 ```
-database/crm.sql
+database/crm_db.sql
 ```
 
 ---
