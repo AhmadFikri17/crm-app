@@ -280,29 +280,30 @@ Built using Tailwind CSS.
 
 # 📷 Screenshots
 
-### Login
+## Landing Page
 
-> Add screenshot here
+![Dashboard](assets/images/dashboard.png)
 
----
+## Login
 
-### Dashboard
+![Login](assets/images/login.png)
 
-> Add screenshot here
+## Register
 
----
+![Login](assets/images/register.png)
 
-### Customer Management
 
-> Add screenshot here
+## Dashboard
 
----
+![Dashboard](assets/images/dashboard.png)
 
-### Interaction Management
+## Customer Management
 
-> Add screenshot here
+![Customers](assets/images/pelanggan.png)
 
----
+## Interaction Management
+
+![Interactions](assets/images/interaksi.png)
 
 # 👨‍💻 Author
 
